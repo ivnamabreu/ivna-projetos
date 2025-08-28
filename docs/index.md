@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Ívna Projetos
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá, meu nome é **Ívna**.
 
-## Commands
+Sou formada em *ciências sociais* pela UFMG e em *administração pública* pela FJP e possuo 12 anos de experiência no setor público. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Tenho interesse nas seguintes áreas de conhecimento: **artes, humanidades, políticas públicas e gestão pública**. 
 
-## Project layout
+Veja meus projetos e conheça mais sobre o meu trabalho no *[GitHub](https://github.com/ivnamabreu)*.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## O que estou aprendendo:
+Estou começando a aprender sobre **tecnologia**. Veja o que estou aprendendo agora:
+
+- Git
+- GitHub
+- Comandos do terminal
+
+## O que ainda vou aprender:
+
+- Python
+- MkDocs
+- Markdown
